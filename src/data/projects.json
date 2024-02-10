@@ -1,0 +1,23 @@
+[
+  {
+    "title": "SSN Mentoring System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to create Mentoring system using Data Structures",
+    "skills": ["Python", "AVL Tree", "Tkinter"],
+    "source": "https://github.com/Arunvijay28/Mentoring-system"
+  },
+  {
+    "title": "Sudoku Game",
+    "imageSrc": "projects/project.png",
+    "description": "This project is to create Sudoku game using Backtracking Algorithm",
+    "skills": ["HTML", "CSS", "Javascript", "Flask"],
+    "source": "https://github.com/Arunvijay28/Sudoku-Game"
+  },
+  {
+    "title": "Crop Recommendation",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to recommend the crop using Artificial Intelligence",
+    "skills": ["Python", "CSP", "Flask"],
+    "source": "https://github.com/Arunvijay28/Crop-Prediction"
+  }
+]
