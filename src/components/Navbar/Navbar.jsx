@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Ncv from '../../../assets/resume.pdf';
+import cv from '../../../assets/resume.pdf';
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
 
